@@ -1,0 +1,24 @@
+@media(max-width: 991px){
+    .crsl-item h1 {
+        font-size: 48px;
+        margin-bottom: 90px;
+    }
+    .top-hdr {
+        padding: 0;
+    }
+    .menu .bar1, .menu .bar2, .menu .bar3 {
+        background: var(--bs-white);
+    }
+    .dn{
+        display: none;
+    }
+    .sr-cntnt {
+        padding: 24px;
+    }
+    .sp {
+        width: 47%;
+    }
+    .office{
+        display: none;
+    }
+}
